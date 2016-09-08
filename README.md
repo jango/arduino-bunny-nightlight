@@ -15,7 +15,7 @@ The single button press controls the light mode:
 3. crossfading light (uses the same five colors).
 
 
-The long button press activates one of the sleep mode durations (turning the current light off after 15 / 30 / 60 minutes). A short button press after the sleep mode was activated will cancel it.
+The long button press activates one of the sleep mode durations (turning the light off after 15 / 30 / 60 minutes). A short button press after the sleep mode was activated will cancel it.
 
 # What's Included
 1. Eagle schematics for the board<sup name="a1">[1](#f1)</sup>
