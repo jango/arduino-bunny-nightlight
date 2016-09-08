@@ -31,5 +31,5 @@ MIT
 
 Footnotes
 ----
-<b name="f1">1</b> Funny story. I can only make a few itirations of the board and it was my first time manufacturing of PCB. Being a lengthy and expensive process, I never waited for the last iteration of the board to arrive and instead made the LED subcircuit using a piece of prototyping board. Long story short - the circuit included is about right, being very simple, but I am not sure if the PCB actually works since it was untested. [↩](#a1)
+<b name="f1">1</b> Funny story. I only had a chance to make two iterations of the board and it was my very first time manufacturing a PCB. Being a lengthy and expensive process, I never had the patience to wait for the last iteration of the board to arrive and instead made the LED circuit using a piece of prototyping board. Long story short - the circuit included here is about right, but I am not sure if the PCB actually works since it was not untested. [↩](#a1)
 [this blog post]:https://learn.sparkfun.com/tutorials/elasto-nightlight
