@@ -5,7 +5,7 @@ An Arduino nightlight that looks like a bunny.
 [<img src="./readme_files/yt_thumbnail.png">](https://youtu.be/e8dI3R4e3lQ)
 
 # Inspiration
-I was inspired by [this blog post] on Sparkfun. However, I wanted to do something more complex in terms of lightning and did not have access to acrylic. So instead, the bunny shape was laser cut from birch and a simple board was assembled to host two RGB LEDs, a button, a power regulator circuit, and a few extra components for a standalone ATmega168.
+I was inspired by [this blog post] on Sparkfun. However, I wanted to do something more complex in terms of lightning. The bunny shape was laser cut from acrylic and a simple board was assembled to host two RGB LEDs that connected, along with a button to an Arduno Nano board.
 
 There are three modes for this nighlight:
 
@@ -31,5 +31,5 @@ MIT
 
 Footnotes
 ----
-<b name="f1">1</b> Funny story. I only had a chance to make two iterations of the board and it was my very first time manufacturing a PCB. Being a lengthy and expensive process, I never had the patience to wait for the last iteration of the board to arrive and instead made the LED circuit using a piece of prototyping board. Long story short - the circuit included here is about right, but I am not sure if the PCB actually works since it was not untested. [↩](#a1)
+<b name="f1">1</b> Funny story. I only had a chance to make two iterations of the board and it was my very first time manufacturing a PCB. Being a lengthy and expensive process, I never had the patience to wait for the last iteration of the board to arrive and instead made the LED circuit using a piece of prototyping board. I also used an Arduino Nano instead of a standalone controller that's present in the circuit diagram. Long story short - the circuit included here is about right, but I am not sure if the PCB actually works since it was not untested. [↩](#a1)
 [this blog post]:https://learn.sparkfun.com/tutorials/elasto-nightlight
